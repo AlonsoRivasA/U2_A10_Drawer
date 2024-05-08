@@ -19,8 +19,8 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## U2 Actividad 10 Drawer
--Luis Alonso Rivas
--Link de referencia: https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
+- Luis Alonso Rivas
+- Link de referencia: https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
 ## Resultado de la actividad:
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/4a2ad25b-55da-42b4-abc3-f7e6f6fce215)
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/ce2cb092-0cd2-4583-81d8-063fd1e0acda)
