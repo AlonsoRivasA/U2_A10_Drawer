@@ -22,6 +22,7 @@ samples, guidance on mobile development, and a full API reference.
 - Luis Alonso Rivas
 - Link de referencia: https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
 ## Resultado de la actividad:
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/bf154c3e-39f5-40a1-a91e-ba6f1923aee4)
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/4a2ad25b-55da-42b4-abc3-f7e6f6fce215)
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/ce2cb092-0cd2-4583-81d8-063fd1e0acda)
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/a0bf369e-a2a3-4243-a71d-782a68ded430)
