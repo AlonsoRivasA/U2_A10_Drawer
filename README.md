@@ -23,9 +23,9 @@ samples, guidance on mobile development, and a full API reference.
 - Link de referencia: https://youtu.be/BpN5f_747pI?si=ku6bZ52ipIrOOBhT
 ## Resultado de la actividad:
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/bf154c3e-39f5-40a1-a91e-ba6f1923aee4)
-![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/4a2ad25b-55da-42b4-abc3-f7e6f6fce215)
-![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/ce2cb092-0cd2-4583-81d8-063fd1e0acda)
-![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/a0bf369e-a2a3-4243-a71d-782a68ded430)
-![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/575fd447-e75a-4a6d-82ef-70395332f2c7)
-![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/ef064752-12bb-42aa-a9d9-b250ff3d16ef)
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/679016e4-ae91-4e07-a258-0d402bb51062)
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/5ca624eb-45b3-4bc4-80b5-9241ea9172eb)
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/a0a7e3d5-22e9-4bb0-825e-87f2d1d8838d)
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/0ffeaae1-738a-4182-8647-ee225a435e76)
+![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/13ac0884-e4b5-4def-a8eb-006e4a95f21e)
 ![image](https://github.com/AlonsoRivasA/U2_A10_Drawer/assets/143743275/10c9133a-e1ff-4503-88c7-e44e71b9e17d)
